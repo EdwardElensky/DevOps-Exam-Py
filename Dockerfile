@@ -11,5 +11,3 @@ RUN pip3 install --no-cache -r requirements.txt
 ENTRYPOINT ["python3"]
 CMD ["hello.py"]
 
-
-
